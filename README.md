@@ -175,4 +175,4 @@ Business Template, Corporate HTML, Responsive Template, Agency Template, Consult
 
 ---
 
-**Built with ❤️ by NEXUS Team** | [Live Preview](https://nexus-demo.com) | [More Templates](https://themeforest.net)
+**Built with ❤️ by EGE BABACAN** |
