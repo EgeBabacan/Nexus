@@ -147,7 +147,7 @@ Open `docs/documentation.html` in your browser for comprehensive setup and custo
 - 🔄 **Updates**: Check CHANGELOG.md for latest changes
 
 ### Contact Information
-- **Email**: support@nexustheme.com
+- **Email**: babacanege6@gmail.com
 - **Response Time**: Within 24 hours
 - **Support Period**: 6 months included with purchase
 
