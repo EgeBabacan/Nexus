@@ -5,8 +5,7 @@
 **License:** ThemeForest Regular / Extended License  
 **Release Date:** July 19, 2026  
 
-[![Live Preview](https://img.shields.io/badge/Live-Preview-blue)](https://nexus-demo.com)
-[![ThemeForest](https://img.shields.io/badge/ThemeForest-Download-green)](https://themeforest.net)
+
 [![Version](https://img.shields.io/badge/Version-1.0.0-orange)](CHANGELOG.md)
 
 ---
